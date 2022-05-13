@@ -1,4 +1,6 @@
-# Sample code to be shared with Memora
+# Dynamic Table
+
+Sample code to be shared with Memora
 
 # Description
 
