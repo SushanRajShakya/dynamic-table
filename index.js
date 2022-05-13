@@ -1,3 +1,3 @@
-import TableGrid from './Table';
+import Grid from './Grid';
 
-export { TableGrid };
+export default Grid;
